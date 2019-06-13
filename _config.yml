@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "GGYU"
+title                    : "Documents"
 title_separator          : "-"
 name                     : "Shin Kim"
 description              : "Pages written by Shin"
@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Shin Kim"
   avatar           : "avatar.jpeg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Human"
+  bio              : "Graduate Student"
   location         : "Seoul, Republic of Korea"
   email            :
   links:

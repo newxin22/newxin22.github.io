@@ -107,14 +107,14 @@ analytics:
 # Site Author
 author:
   name             : "Shin Kim"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "avatar.jpeg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Human"
   location         : "Seoul, Republic of Korea"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: mailto:new.xin22@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"

@@ -11,7 +11,7 @@ I checked the tensorflow-lite works well but there is a problem. Below is the er
 
 
 ```
->>>from tflite_rintime import Interpreter
+>>>from tflite_runtime import Interpreter
 Traceback (most recent call last):
   File "<stdin>", lind 1, in <module>
 ImportError: cannot import name 'Interpreter'

@@ -21,4 +21,4 @@ I just typed code from the tensorflow lite web site and I got the error message.
 Because it is just a typing error!
 I checked files in tensorflow-lite package(/usr/lib/python3/dist-packages/tflite_runtime), there is no Interpreter.py. Just interpreter.py! 
 
-So I retyped ```from tflite_rintime import interpreter``` and it works well!
+So I retyped ```from tflite_runtime import interpreter``` and it works well!

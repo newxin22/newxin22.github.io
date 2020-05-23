@@ -1,7 +1,7 @@
 ---
 title : "Ubuntu 18.04 네트워크 세팅"
 date: 2020-05-24
-categories: Keras, Deep Learning, Neural Network
+categories: Ubuntu, Network Setup
 ---
 
 

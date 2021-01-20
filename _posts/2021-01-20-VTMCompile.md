@@ -39,5 +39,4 @@ It was a problem that cmake is not up-to-date, so you can upgrade with brew.
 brew upgrade cmake
 ```
 
-After then, compilation will be successful.
-and finally do ```make -j```.
+After then, compilation will be successful, you can open the project with Xcode.

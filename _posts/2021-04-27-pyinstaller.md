@@ -1,6 +1,6 @@
 ---
-title : "Pyinstaller 사용법"
-date: 2021-01-19
+title : "Pyinstaller 에서 __import__ 가 작동아 안된다면"
+date: 2021-04-27
 categories: Pyinstaller
 ---
 

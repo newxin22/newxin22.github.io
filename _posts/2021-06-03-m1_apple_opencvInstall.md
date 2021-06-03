@@ -1,5 +1,5 @@
 ---
-title : "M1 Apple 컴퓨터에서 opencv 4.5 설치"
+title : "M1 Apple 컴퓨터에서 opencv 4.5 설치(opencv 4.5 installation on M1 Apple)"
 date: 2021-06-03
 categories: opencv, m1, apple
 ---
@@ -18,5 +18,18 @@ std::integer_sequence<T, Rs...>> {
 ```
 
 굳이 그렇게 까지 하고 싶지 않아서 쿨포기!
+
+
 혹시나 하고 conda search opencv 해보니 해당 채널에 (https://conda.anaconda.org/conda-forge/osx-arm64) 에 opencv가 있더라.
+
+
 conda install opencv 로 설치하고 광명 찾음!
+
+
+----------------------------------------
+You can install opencv with ease by using conda instruction.
+```
+$ conda install opencv
+```
+
+So simple! You don't need to compile the opencv repo onerously with cmake and make.
